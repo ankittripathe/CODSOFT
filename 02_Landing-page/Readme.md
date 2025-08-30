@@ -1,5 +1,5 @@
-# Level-1 Task-2 (Calculator)
-Build Modern calculator app using HTML/CSS/JS with real-time display updates.
+# Level-1 Task-2 (Landing-Page)
+Build Modern Portfolio Landing page Website using HTML/CSS/JS.
 
 ## 🛠 Technologies Used
 - HTML
