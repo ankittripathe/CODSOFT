@@ -7,5 +7,5 @@ Build Personal Portfolio website using HTML, CSS, & Bootstrap.
 - Bootstrap
 
 ## 🔗 Links
-- 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://ankittripathe.github.io/CODSOFT/Portfolio-website/)
+- 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://ankittripathe.github.io/CODSOFT/01_Portfolio/)
 - 📁 **GitHub Repo**: [https://lnkd.in/g-m6hC2Y](https://github.com/ankittripathe/CODSOFT.git)
